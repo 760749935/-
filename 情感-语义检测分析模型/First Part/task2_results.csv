@@ -1,0 +1,18 @@
+sentiment,intensity,keywords,evidence,label,text
+中性,弱,refugees,"""refugees"" 仅仅是一个词语，没有表达任何情感色彩。它只是指代难民群体，本身不带有正面、负面或中性的情感倾向。",fake,refugees_1
+正面,弱,Willkommen,"""Willkommen"" 在德语中意为“欢迎”，表达了积极友好的情感。虽然没有其他情感词汇，但“欢迎”本身就带有正面的含义。链接本身不影响情感分析。",fake,Willkommen..!! http://t.co/yLvLNMr1pW
+中性,弱,"Bienvenue, Allemagne",这段文字只是表达了“欢迎来到德国”的意思，没有表达任何积极或消极的情感。它只是一个信息性的陈述。,fake,Bienvenue en Allemagne  https://t.co/GEYeww6gz5
+负面,强,"Muslims, let in, THIS",该推文表达了对大量穆斯林入境的强烈负面情绪，使用了“THIS is what happens”这样的语句，暗示了负面后果，并带有明显的排斥意味。,fake,RT @Megafauna2: @AmyMek @anonym_exmuslim @creepingsharia @barenakedislam @iammrsc THIS is what happens when U let in 2 many Muslims! https:...
+正面,中等,"Supermoon, Unbelievable, Rio de Janeiro",虽然表达了“where the heck was I for this?”的遗憾，但整体内容对Supermoon的照片表达了惊叹和赞美，因此情感偏向正面。,fake,@IEarthPictures: Unbelievable Shot Of The 2012 Supermoon In Rio de Janeiro. http://t.co/0JIGcCL3q0 where the heck was I for this?
+正面,中等,"love, hero, crazy","作者表达了对滑雪的热爱 (""love to snowboard"")，并对某位女性的经历表示钦佩 (""hero"")，同时对事件的不可思议性感到惊讶 (""crazy"")，整体语调积极。",fake,Dude I love to snowboard but this girl is my hero dude didn't even know about the bear... crazy https://t.co/OnfU8uTfjI
+负面,强,"ביזה (掠夺), Ukraine (乌克兰), Crimea (克里米亚)",内容描述了“掠夺”行为，针对乌克兰和克里米亚，带有明显的负面情绪。使用“掠夺”一词以及相关话题（乌克兰、克里米亚）都指向了冲突和负面事件。,fake,"ביזה באוקראינה
+The unknown soldier steal geese from Crimean Tatars #Ukraine #Crimea http://t.co/LKmgorTLuQ"
+负面,强,"贫困, 饥饿, 悲伤",内容描述了一个小叙利亚女孩为了生存而卖口香糖，暗示了她的贫困和饥饿状况，引发了同情和悲伤的情感。,fake,Little Syrian girl sells chewing gum on the street so she can feed herself... https://t.co/pGhagPBxHb
+负面,中等,"refugees, camp, Macedonia",内容描述了难民等待进入难民营的场景，暗示了他们所处的困境和不确定性，带有负面情绪。 “refugees”和“camp”这两个词本身就带有一定的负面含义，反映了流离失所和庇护的处境。,real,#refugees wait to enter a refugee camp in Gevgelija #Macedonia. For @nytimes @nytimesphoto  https://t.co/sczah03cMb http://t.co/XeX2aKLUdh
+负面,中等,"luxury, camps, wouldn't",该推文旨在反驳一种观点，即难民来到欧洲是为了享受奢华生活。通过展示难民营的生活条件，并表示“我们 wouldn't last a day”，表达了对难民营生活条件的否定和对奢华生活的嘲讽，整体基调是负面的。,real,RT @HumzaYousaf: For those think refugees come Europe for life of luxury -does this look like luxury? We wouldn't last a day in camps http:...
+正面,中等,"freedom, sanctuary, refugees",内容描述难民“漫长的自由之路”，并提到“欧洲提供庇护”，这些都带有积极的色彩，表达了对难民处境的同情和对欧洲提供帮助的肯定。,real,"RT @BabarBloch: Hegyeshalom, #Hungary: Refugees long walk to freedom. #Europe provides sanctuary http://t.co/b093HjKA4A"
+负面,中等,"难民, 欧洲, 抵达",内容描述了难民抵达欧洲的数量，并提到了来自叙利亚的比例。这暗示了危机和潜在的负面影响，因此情感偏向负面。虽然没有直接表达情绪，但事件本身具有负面含义。,real,RT @Refugees: Today Mediterranean sea arrivals to Europe reach 1 million. 49% are from Syria.  https://t.co/nAUZy25H5X https://t.co/RgJ89LH...
+负面,强,"barn (孩子), flyr (逃离), överfull (超载)",内容描述了大量孩子在拥挤的船只上逃离，暗示了危险、困境和悲惨的处境，表达了强烈的负面情绪。,real,Titta på barnen. De satt närmare 30 barn i den här båten. Barn som flyr i en överfull båt över havet. https://t.co/YtTfJxXh6d
+负面,中等,"Vulnerable, refugees, assistance",内容描述了“Vulnerable” (脆弱的) 难民和移民需要“protection” (保护) 和 “assistance” (援助)，暗示了一种困境和需求，因此情感偏向负面。,real,RT @Refugees: Vulnerable refugees + migrants are in need of protection + assistance. Our strategy: https://t.co/3PNso9q8nT #Europe https://...
+负面,中等,"RefugeeCrisis, supportrefugees, refugees",内容涉及难民危机，并呼吁支持难民，暗示了危机带来的负面影响和需要帮助的状况。虽然呼吁支持是积极的，但其背景是负面的难民困境。,real,RT @UNRefugeeAgency: These Photos Show Another Face Of The #RefugeeCrisis: https://t.co/SDiePXmOnT #supportrefugees #refugees https://t.co/...
+负面,中等,"godless, Syria",使用“godless”（无神论的）一词来描述叙利亚人民带有贬义色彩，暗示对他们的负面评价。提及叙利亚本身也可能与冲突和苦难相关联，进一步加剧了负面情感。,real,godless people of Syria https://t.co/yhByc45Lgt
